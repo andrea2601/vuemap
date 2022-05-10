@@ -1,0 +1,139 @@
+{
+  "total": [
+    {
+      "targa": "AB123CD",
+      "marca": "Dacia",
+      "modello": "Sandero 2",
+      "colore": "Grigio",
+      "dispositivo_default": [
+        {
+          "imei": "897623234234",
+          "modello": 2,
+          "tipo": "primario",
+          "posizioni": {
+            "ultima": {
+              "via": "Giovanni Adelfio 2I",
+              "send_time": "2021-10-13 12:19",
+              "lat": 13.05434,
+              "lng": 35.05434,
+              "type": "fix"
+            },
+            "passate": [
+              {
+                "via": "Giovanni Adelfio 3I",
+                "send_time": "2021-10-13 12:18",
+                "lat": 13.05415,
+                "lng": 35.05425,
+                "type": "fix"
+              },
+              {
+                "via": "Giovanni Adelfio 4I",
+                "send_time": "2021-10-13 12:17",
+                "lat": 13.05420,
+                "lng": 35.05430,
+                "type": "fix"
+              },
+              {
+                "via": "Giovanni Adelfio 5I",
+                "send_time": "2021-10-13 12:14",
+                "lat": 13.05431,
+                "lng": 35.05432,
+                "type": "fix"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "targa": "FZ676XD",
+      "marca": "Seat",
+      "modello": "Arona",
+      "colore": "Rosso",
+      "dispositivo_default": [
+        {
+          "imei": "897623235554",
+          "modello": 2,
+          "tipo": "primario",
+          "posizioni": {
+            "ultima": {
+              "via": "Salvatore Di Blasi 65",
+              "send_time": "2021-10-13 12:19",
+              "lat": 14.05434,
+              "lng": 35.05434,
+              "type": "fix"
+            },
+            "passate": [
+              {
+                "via": "Salvatore Di Blasi 55",
+                "send_time": "2021-10-13 12:18",
+                "lat": 14.05415,
+                "lng": 35.05425,
+                "type": "fix"
+              },
+              {
+                "via": "Salvatore Di Blasi 55",
+                "send_time": "2021-10-13 12:17",
+                "lat": 14.05420,
+                "lng": 35.05430,
+                "type": "fix"
+              },
+              {
+                "via": "Salvatore Di Blasi 57",
+                "send_time": "2021-10-13 12:14",
+                "lat": 14.05431,
+                "lng": 35.05432,
+                "type": "fix"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "targa": "GF776KL",
+      "marca": "BMW",
+      "modello": "X4",
+      "colore": "Nero",
+      "dispositivo_default": [
+        {
+          "imei": "897623777554",
+          "modello": 13,
+          "tipo": "primario",
+          "posizioni": {
+            "ultima": {
+              "via": "Andrea Buscemi 129",
+              "send_time": "2021-10-13 12:19",
+              "lat": 12.05434,
+              "lng": 33.05434,
+              "type": "fix"
+            },
+            "passate": [
+              {
+                "via": "Andrea Buscemi 256",
+                "send_time": "2021-10-13 12:18",
+                "lat": 12.06415,
+                "lng": 33.05425,
+                "type": "fix"
+              },
+              {
+                "via": "Andrea Buscemi 289",
+                "send_time": "2021-10-13 12:17",
+                "lat": 12.07420,
+                "lng": 33.05430,
+                "type": "fix"
+              },
+              {
+                "via": "Andrea Buscemi 333",
+                "send_time": "2021-10-13 12:14",
+                "lat": 12.08431,
+                "lng": 33.05432,
+                "type": "fix"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
