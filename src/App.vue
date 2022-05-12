@@ -5,7 +5,7 @@
         <Navigator></Navigator>
         <form>
           <label class="text-white container-fluid" for="select"
-            >Seleziona targa</label
+            >Seleziona targa!</label
           >
           <select
             id="select"
