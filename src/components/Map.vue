@@ -2,7 +2,7 @@
   <gmap-map
     :center="center"
     :zoom="8"
-    style="width: 100%; height: 500px"
+    style="width: 100%; height: 100vh"
   >
     <gmap-marker
       :key="index"
